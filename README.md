@@ -10,7 +10,7 @@ Algorithms used are:
 4. Logistic Regression
 5. SVM
 
-Evaluated model above using:
+Evaluated models above using:
 
 1. Accuracy Score
 2. Jaccard Index
